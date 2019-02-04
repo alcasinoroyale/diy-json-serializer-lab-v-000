@@ -10,5 +10,5 @@ class ProductSerializer
   serialized_product += '"description": "' + product.name + '"'
 
   serialized_product += '}'
-
+  end
 end
